@@ -9,4 +9,4 @@ elif b <= 30:
 elif b <= 50:
     print(f"Enjoy your peak time in your life Mr.{a}")
 else:
-    print(f"Prepare for your retirement life")
+    print("Prepare for your retirement life")
